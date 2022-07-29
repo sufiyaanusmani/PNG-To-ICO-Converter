@@ -1,10 +1,10 @@
 
 # PNG To ICO Converter
 
-This program will convert .png image to .ico 
+This program will convert .png image to .ico. Project is located in `./build/app.py'
 
 
-## Authors
+## Author
 
 - [@sufiyaanusmani](https://github.com/sufiyaanusmani)
 
