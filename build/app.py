@@ -10,6 +10,8 @@ from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage
 import tkinter.filedialog
 import tkinter.messagebox
 from PIL import Image
+# import win32gui
+# import win32con
 
 
 OUTPUT_PATH = Path(__file__).parent
@@ -70,6 +72,8 @@ def convert():
         print(e)
 
 
+# hide = win32gui.GetForegroundWindow()
+# win32gui.ShowWindow(hide, win32con.SW_HIDE)
 window = Tk()
 window.title("PNG To ICO Converter")
 window.geometry("300x250")
