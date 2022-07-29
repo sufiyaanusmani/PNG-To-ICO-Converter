@@ -1,7 +1,7 @@
 
 # PNG To ICO Converter
 
-This program will convert .png image to .ico. Project is located in `./build/app.py'
+This program will convert .png image to .ico. Project is located in `./build/app.py`
 
 
 ## Author
